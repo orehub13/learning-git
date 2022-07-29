@@ -1,2 +1,3 @@
-func main()
-func subMain()
+package main
+func main(){}
+func subMain(){}
